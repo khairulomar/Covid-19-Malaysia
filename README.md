@@ -5,4 +5,4 @@ is cleansed and ready to be used for analysis:
 <p>
 1. <b>KKM_data_source.ipynb</b> - as Pandas dataframes
 <p>
-2. <b>rawfiles</b> folder - as csv files
+2. <b>Rawfiles</b> folder - as csv files
