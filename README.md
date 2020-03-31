@@ -25,6 +25,6 @@ is cleansed and ready to be used for analysis:
 
 4. Time-series and similarity index (between countries; choose a baseline (weather pattern similar to Malaysia).
 
-5. Case prediction by states (Msia)
+5. Case prediction by states (Malaysia)
 
 6. Epidemic curve the famous flattened the curve with economic recession curve from MIER - <a href="https://github.com/khairulomar/Covid-19-Malaysia/blob/master/MIER_report.pdf">link here<a>
