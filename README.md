@@ -27,4 +27,4 @@ is cleansed and ready to be used for analysis:
 
 5. Case prediction by states (Malaysia)
 
-6. Epidemic curve the famous flattened the curve with economic recession curve from MIER - <a href="https://github.com/khairulomar/Covid-19-Malaysia/blob/master/MIER_report.pdf">link here<a>
+6. Epidemic curve & flattened the curve vs economic recession curve from MIER - <a href="https://github.com/khairulomar/Covid-19-Malaysia/blob/master/MIER_report.pdf">link here<a>
