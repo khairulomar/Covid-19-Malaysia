@@ -10,7 +10,7 @@ is cleansed and ready to be used for analysis:
 ### Covid-19 data for all countries
 1. <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data">John Hopkins Hospital data</a> (raw)
 <p>
-  2. <a href="https://github.com/khairulomar/Covid-19">My other repo</a> (cleansed)
+2. <a href="https://github.com/khairulomar/Covid-19">My other repo</a> (cleansed)
 
 ### Key questions to analyse and formulate
 
