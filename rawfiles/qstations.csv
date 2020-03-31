@@ -1,0 +1,410 @@
+,Quarantine Station,State,latitude,longitude,geoType
+0,"Institut Kemahiran Belia Negara Kuala Perlis, Perlis",Perlis,6.3981776,100.1445082,GEOMETRIC_CENTER
+1,"Institut Kemahiran MARA Beseri, Perlis",Perlis,6.554882,100.2301111,GEOMETRIC_CENTER
+2,"Institut Pendidikan Guru, Kampus Perlis, Kangar, Perlis",Perlis,6.4248477,100.22008,ROOFTOP
+3,"Institut Latihan Perindustrian Kangar, Perlis",Perlis,6.4273625,100.2130064,GEOMETRIC_CENTER
+4,"Kem Bina Negara Kaki Bukit, Perlis",Perlis,6.643025,100.20901,APPROXIMATE
+5,"Kolej Komuniti Arau, Perlis",Perlis,6.3783383,100.2398295,GEOMETRIC_CENTER
+6,"Politeknik Tuanku Syed Sirajuddin, Arau, Perlis",Perlis,6.4514187,100.3390095,GEOMETRIC_CENTER
+7,"Akademi Koreksional Malaysia, Langkawi, Kedah",Kedah,6.3062306,99.8543001,GEOMETRIC_CENTER
+8,"Akademi Kastam Diraja Malaysia (Cawangan Langkawi), Kedah",Kedah,6.3023553,99.7962536,GEOMETRIC_CENTER
+9,"Akademi Pengangkutan Jalan Malaysia Wilayah Utara, Langkawi, Kedah",Kedah,6.32971,99.850542,GEOMETRIC_CENTER
+10,"Institut Akuakultur Marin Pulau Sayak Kedah, Kedah",Kedah,5.655319,100.335157,GEOMETRIC_CENTER
+11,"Institut Aminuddin Baki Cawangan Utara, Jitra, Kedah",Kedah,6.2423045,100.4301412,GEOMETRIC_CENTER
+12,"Institut Tadbiran Awam Negara Wilayah Utara, Sungai Petani, Kedah",Kedah,5.6268849,100.528927,GEOMETRIC_CENTER
+13,"Institut Kemahiran Belia Negara Jitra, Kedah",Kedah,6.300998,100.419687,GEOMETRIC_CENTER
+14,"Institut Kemahiran Belia Negara Naka, Kuala Nerang, Kedah",Kedah,6.1300177,100.6700779,GEOMETRIC_CENTER
+15,"Institut Kemahiran MARA Alor Setar, Kedah",Kedah,6.1169,100.3546699,GEOMETRIC_CENTER
+16,"Institut Kemahiran MARA Sik, Kedah",Kedah,5.834008,100.756291,GEOMETRIC_CENTER
+17,"Institut Kemahiran MARA Sungai Petani, Kedah",Kedah,5.6531208,100.5007413,GEOMETRIC_CENTER
+18,"Institut Latihan Kementerian Kesihatan Malaysia Alor Setar (Pembantu Perubatan), Kedah",Kedah,6.1423319,100.3739174,ROOFTOP
+19,"Institut Latihan Perindustrian Jitra, Kedah",Kedah,6.2535812,100.4324337,GEOMETRIC_CENTER
+20,"Institut Pendidikan Guru, Kampus Darulaman, Jitra, Kedah",Kedah,6.244167,100.4319294,GEOMETRIC_CENTER
+21,"Institut Pendidikan Guru, Kampus Sultan Abdul Halim, Sungai Petani, Kedah",Kedah,5.6290799,100.5231187,GEOMETRIC_CENTER
+22,"Institut Pengurusan Peladang, Langkawi, Kedah",Kedah,6.3289043,99.8536535,GEOMETRIC_CENTER
+23,"Pusat Pembangunan Kemahiran Industri dan Pengurusan, Sungai Petani, Kedah",Kedah,5.65257,100.505,GEOMETRIC_CENTER
+24,"Kem Bina Negara Kulim, Kedah",Kedah,5.3419353,100.5493011,GEOMETRIC_CENTER
+25,"Kem Bina Negara Langkawi, Kedah",Kedah,6.3515823,99.8076253,GEOMETRIC_CENTER
+26,"Kolej Komuniti Bandar Darul Aman, Jitra, Kedah",Kedah,6.2445647,100.4204935,GEOMETRIC_CENTER
+27,"Kolej Komuniti Jerai, Guar Chempedak, Kedah",Kedah,5.8539185,100.4455036,GEOMETRIC_CENTER
+28,"Kolej Komuniti Kulim, Kedah",Kedah,5.370752,100.5670598,ROOFTOP
+29,"Kolej Komuniti Langkawi, Kedah",Kedah,6.3171724,99.7247759,GEOMETRIC_CENTER
+30,"Kolej Komuniti Padang Terap, Kuala Nerang, Kedah",Kedah,6.2490782,100.5949342,GEOMETRIC_CENTER
+31,"Kolej Komuniti Sungai Petani, Kedah",Kedah,5.67057,100.5109059,ROOFTOP
+32,"Kolej Komuniti Bandar Baharu, Kedah",Kedah,5.1310589,100.495054,ROOFTOP
+33,"Kolej Komuniti Baling, Kedah",Kedah,5.6556861,100.8727714,GEOMETRIC_CENTER
+34,"Kolej Pertanian Malaysia, Kampus Induk, Bukit Tangga, Bukit Kayu Hitam, Kedah",Kedah,6.4986949,100.4767436,GEOMETRIC_CENTER
+35,"Majlis Perbandaran Kubang Pasu, Jitra, Kedah",Kedah,6.300376,100.421847,GEOMETRIC_CENTER
+36,"Politeknik Sultan Abdul Halim Mu’adzam Shah, Jitra, Kedah",Kedah,6.2477008,100.4322187,GEOMETRIC_CENTER
+37,"Politeknik Tuanku Sultanah Bahiyah, Kulim, Kedah",Kedah,5.383429,100.5759871,GEOMETRIC_CENTER
+38,"Pusat Bimbingan Usahawan Teluk Chengai, Kedah",Kedah,6.1033097,100.3301431,APPROXIMATE
+39,"Pusat Latihan Agensi Antidadah Kebangsaan Sungai Petani, Sungai Petani, Kedah",Kedah,5.626002,100.53271,ROOFTOP
+40,"Pusat Latihan RELA Wilayah Utara, Sungai Petani, Kedah",Kedah,5.743204,100.6260099,GEOMETRIC_CENTER
+41,"Pusat Latihan dan Pembangunan Pengembangan, Wilayah Utara, Telok Chengai, Kedah",Kedah,6.0918494,100.3302373,GEOMETRIC_CENTER
+42,"Pusat Latihan Teknologi Tinggi Kulim, Kedah",Kedah,5.3357061,100.7463611,GEOMETRIC_CENTER
+43,"Pusat Pengeluaran dan Penyelidikan Benih Udang Kebangsaan, Kuala Muda, Kedah",Kedah,5.616295,100.375729,GEOMETRIC_CENTER
+44,"Institut Kemahiran Belia Negara Bukit Mertajam, Pulau Pinang",Pulau Pinang,5.3940479,100.493434,GEOMETRIC_CENTER
+45,"Institut Latihan Statistik Malaysia, Pulau Pinang",Pulau Pinang,5.4193539,100.3079012,ROOFTOP
+46,"Institut Kemahiran Tinggi PERDA, Nibong Tebal, Pulau Pinang",Pulau Pinang,5.1618683,100.5337597,GEOMETRIC_CENTER
+47,"Institut Kemahiran Tinggi Belia Negara Bukit Mertajam, Pulau Pinang",Pulau Pinang,5.39476,100.4937104,GEOMETRIC_CENTER
+48,"Institut Pendidikan Guru Kampus Pulau Pinang, Pulau Pinang",Pulau Pinang,5.3766368,100.3125093,GEOMETRIC_CENTER
+49,"Institut Pendidikan Guru Kampus Tuanku Bainun, Pulau Pinang",Pulau Pinang,5.4024979,100.489002,GEOMETRIC_CENTER
+50,"Institut Pertanian Bumbung Lima, Pulau Pinang",Pulau Pinang,5.5522223,100.4433625,GEOMETRIC_CENTER
+51,"Institut Teknikal Jepun Malaysia, Pulau Pinang",Pulau Pinang,5.3038906,100.4456806,ROOFTOP
+52,"Institut Latihan Kecemerlangan MARA, Pulau Pinang",Pulau Pinang,5.1930807,100.501371,ROOFTOP
+53,"Institut Latihan Perindustrian Arumugam Pillai, Nibong Tebal, Pulau Pinang",Pulau Pinang,5.1635864,100.4981896,GEOMETRIC_CENTER
+54,"Institut Latihan Perindustrian Kepala Batas, Pulau Pinang",Pulau Pinang,5.5210162,100.4811569,ROOFTOP
+55,"Institut Latihan Perindustrian Perai, Pulau Pinang",Pulau Pinang,5.373721,100.389338,GEOMETRIC_CENTER
+56,"Kem Bina Negara Balik Pulau, Pulau Pinang",Pulau Pinang,5.2962039,100.184864,GEOMETRIC_CENTER
+57,"Kolej Kejururawatan, Pulau Pinang",Pulau Pinang,5.4194639,100.309944,GEOMETRIC_CENTER
+58,"Kolej Komuniti Bayan Baru, Pulau Pinang",Pulau Pinang,5.3324429,100.279293,ROOFTOP
+59,"Kolej Komuniti Bukit Mertajam, Pulau Pinang",Pulau Pinang,5.3809232,100.4642375,GEOMETRIC_CENTER
+60,"Kolej Komuniti Kepala Batas, Pulau Pinang",Pulau Pinang,5.5199814,100.4343523,ROOFTOP
+61,"Kolej Komuniti Nibong Tebal, Pulau Pinang",Pulau Pinang,5.2841619,100.4803589,ROOFTOP
+62,"Kolej Komuniti Tasek Gelugor, Pulau Pinang",Pulau Pinang,5.4918807,100.383861,ROOFTOP
+63,"Kolej Kemahiran Tinggi MARA Balik Pulau, Pulau Pinang",Pulau Pinang,5.330903,100.217422,GEOMETRIC_CENTER
+64,"Pusat Pembangunan Kemahiran Pulau Pinang, Pulau Pinang",Pulau Pinang,5.3200146,100.2902496,ROOFTOP
+65,"Politeknik Balik Pulau, Pulau Pinang",Pulau Pinang,5.343804,100.215553,GEOMETRIC_CENTER
+66,"Politeknik Metro Tasek Gelugor, Pulau Pinang",Pulau Pinang,5.4850917,100.4902753,GEOMETRIC_CENTER
+67,"Politeknik Seberang Perai, Pulau Pinang",Pulau Pinang,5.3740903,100.4217674,GEOMETRIC_CENTER
+68,"Pusat Keluarga LPPKN Bertam Pulau Pinang, Pulau Pinang",Pulau Pinang,5.5163961,100.4408303,GEOMETRIC_CENTER
+69,"Pusat Latihan KEMAS Kepala Batas, Pulau Pinang",Pulau Pinang,5.5160545,100.4183062,ROOFTOP
+70,"SEAMEO RECSAM PENANG, Pulau Pinang",Pulau Pinang,5.377133,100.3089619,GEOMETRIC_CENTER
+71,"Hotel TH, Bayan Lepas, Pulau Pinang",Pulau Pinang,5.3005896,100.260678,ROOFTOP
+72,"Akademi Bomba dan Penyelamat Malaysia Ipoh, Perak",Perak,4.6754887,101.073343,GEOMETRIC_CENTER
+73,"Akademi Kemahiran KEMAS Seri Iskandar, Perak",Perak,4.37154,100.9543561,GEOMETRIC_CENTER
+74,"Institut Kemahiran Belia Negara Seri Iskandar, Perak",Perak,4.367937,100.940539,GEOMETRIC_CENTER
+75,"Institusi Kemahiran Mara Lumut, Perak",Perak,4.192076,100.6583262,GEOMETRIC_CENTER
+76,"Institut Latihan Statistik Malaysia, Perak",Perak,3.977403,101.3204378,GEOMETRIC_CENTER
+77,"Institut Latihan Perindustrian Ipoh, Perak",Perak,4.6475308,101.0730104,GEOMETRIC_CENTER
+78,"Institut Pendidikan Guru Kampus Ipoh, Perak",Perak,4.6545623,101.1642337,GEOMETRIC_CENTER
+79,"Institut Pertanian Parit Titi Gantong, Perak",Perak,4.3605215,100.8446281,GEOMETRIC_CENTER
+80,"Jabatan Kerja Raya Negeri Perak, Perak",Perak,4.6043387,101.0764545,GEOMETRIC_CENTER
+81,"Institut Tanah dan Ukur Negara, Perak",Perak,3.766089,101.5184121,APPROXIMATE
+82,"Kem Bina Negara Ulu Kenas, Perak",Perak,4.6860738,100.8848429,GEOMETRIC_CENTER
+83,"Kolej Komuniti Chenderoh, Perak",Perak,4.7907318,100.8979805,GEOMETRIC_CENTER
+84,"Kolej Komuniti Gerik, Perak",Perak,5.3863474,101.057001,GEOMETRIC_CENTER
+85,"Kolej Komuniti Kuala Kangsar, Perak",Perak,4.7736833,100.9429535,GEOMETRIC_CENTER
+86,"Kolej Komuniti Manjung, Perak",Perak,4.2062114,100.6738979,ROOFTOP
+87,"Kolej Komuniti Pasir Salak, Perak",Perak,4.1375187,100.9092968,GEOMETRIC_CENTER
+88,"Kolej Komuniti RTC Gopeng, Perak",Perak,4.4938249,101.1515753,GEOMETRIC_CENTER
+89,"Kolej Komuniti Sungai Siput, Perak",Perak,4.85155,101.052517,GEOMETRIC_CENTER
+90,"Kolej Komuniti Taiping, Perak",Perak,4.8921046,100.7348388,ROOFTOP
+91,"Kolej Komuniti Tapah, Perak",Perak,4.1933091,101.2637544,GEOMETRIC_CENTER
+92,"Kolej Komuniti Teluk Intan, Perak",Perak,4.0121713,101.0406533,GEOMETRIC_CENTER
+93,"Kolej Komuniti Batu Gajah, Perak",Perak,4.473768,101.051004,GEOMETRIC_CENTER
+94,"Kolej Sains Kesihatan Bersekutu Sultan Azlan Shah Ulu Kinta, Perak",Perak,4.6857578,101.1522589,GEOMETRIC_CENTER
+95,"Pusat Pembangunan Modal Manusia Perak, Perak",Perak,4.5921126,101.090109,APPROXIMATE
+96,"Pusat Pembangunan Kemahiran Perak, Perak",Perak,4.5921126,101.090109,APPROXIMATE
+97,"Politeknik Sultan Azlan Shah, Perak",Perak,3.770015,101.450107,ROOFTOP
+98,"Politeknik Ungku Omar, Perak",Perak,4.5885059,101.1258607,GEOMETRIC_CENTER
+99,"Pusat Bimbingan Usahawan Manong, Perak",Perak,4.6085778,100.8998429,APPROXIMATE
+100,"Pusat Latihan Teknologi Tinggi Taiping, Perak",Perak,4.8656336,100.7002974,GEOMETRIC_CENTER
+101,"Pusat Transformasi Luar Bandar Perak, Perak",Perak,4.59684,101.067969,MANUAL
+102,"Akademi Bomba dan Penyelamat Malaysia Kuala Kubu Bharu, Selangor",Selangor,3.5705367,101.6602652,GEOMETRIC_CENTER
+103,"Agensi Nuklear Malaysia, Selangor",Selangor,2.9071234,101.7670464,GEOMETRIC_CENTER
+104,"Akademi Penerbangan Malaysia, Selangor",Selangor,2.7510581,101.7388589,GEOMETRIC_CENTER
+105,"Agensi Anti Dadah Kebangsaan, Selangor",Selangor,3.0584647,101.4690264,GEOMETRIC_CENTER
+106,"Institut Alam Sekitar Malaysia, Selangor",Selangor,2.9254336,101.7881694,GEOMETRIC_CENTER
+107,"Institut Kepimpinan IM4U, Selangor",Selangor,3.1640795,101.4689558,GEOMETRIC_CENTER
+108,"Institut Latihan Islam Malaysia, Selangor",Selangor,2.9528237,101.7475974,ROOFTOP
+109,"Institut Latihan Kehakiman dan Perundangan, Bangi, Selangor",Selangor,2.933361,101.7720109,ROOFTOP
+110,"Institut Penyelidikan Perhutanan Malaysia, Selangor",Selangor,3.2336798,101.6326558,GEOMETRIC_CENTER
+111,"Institut Kemahiran Belia Negara Kuala Langat, Selangor",Selangor,2.8259985,101.487527,MANUAL
+112,"Institut Kemahiran Belia Negara Peretak, Selangor",Selangor,3.547078,101.6780479,GEOMETRIC_CENTER
+113,"Institut Kemahiran Tinggi Belia Negara Sepang, Selangor",Selangor,2.8061155,101.7181339,GEOMETRIC_CENTER
+114,"Institut Kemahiran Tinggi Belia Negara Dusun Tua, Selangor",Selangor,3.1356015,101.8346057,GEOMETRIC_CENTER
+115,"Institut Penilaian Negara, Selangor",Selangor,2.9563321,101.7284116,GEOMETRIC_CENTER
+116,"Institut Kemajuan Desa, Selangor",Selangor,2.9646634,101.7362468,ROOFTOP
+117,"Institut Perakaunan Negara, Selangor",Selangor,3.8306641,100.8163812,GEOMETRIC_CENTER
+118,"Institut Pendidikan Guru, Kampus Pendidikan Islam, Selangor",Selangor,2.9461311,101.7503306,GEOMETRIC_CENTER
+119,"Institut Latihan Pentadbiran dan Pengurusan Pengangkutan Laut, Selangor",Selangor,2.9894935,101.3882608,GEOMETRIC_CENTER
+120,"Institut Latihan Pengembangan Pertanian Serdang, Selangor",Selangor,3.0113255,101.6965254,GEOMETRIC_CENTER
+121,"Institut Latihan Perindustrian Kuala Langat, Selangor",Selangor,2.8206509,101.4630754,GEOMETRIC_CENTER
+122,"Institut Koperasi Malaysia, Selangor",Selangor,3.095776,101.6420444,ROOFTOP
+123,"Institut Pengurusan Veterinar Cheras, Selangor",Selangor,3.0358806,101.7754554,GEOMETRIC_CENTER
+124,"Institut Pertanian Serdang, Selangor",Selangor,2.996238,101.6960835,GEOMETRIC_CENTER
+125,"Kem Bina Negara Tanjung Rhu, Selangor",Selangor,2.6347347,101.6221912,GEOMETRIC_CENTER
+126,"Kem Wawasan Negara Meru, Selangor",Selangor,3.1640795,101.4689558,GEOMETRIC_CENTER
+127,"Kolej Sains Kesihatan Bersekutu Sungai Buloh, Selangor",Selangor,3.2209428,101.5864519,GEOMETRIC_CENTER
+128,"Kolej Kemahiran Tinggi Mara Petaling Jaya, Selangor",Selangor,3.0836672,101.6547245,GEOMETRIC_CENTER
+129,"Kolej Komuniti Sabak Bernam, Selangor",Selangor,3.769601,100.9840979,GEOMETRIC_CENTER
+130,"Kolej Komuniti Selayang, Selangor",Selangor,3.2648286,101.6529354,ROOFTOP
+131,"Kolej Komuniti Shah Alam, Selangor",Selangor,3.0845299,101.5569116,GEOMETRIC_CENTER
+132,"Kolej Komuniti Tanjung Karang, Selangor",Selangor,3.426409,101.1767141,GEOMETRIC_CENTER
+133,"Kolej Komuniti Hulu Langat, Selangor",Selangor,3.009807,101.8031479,GEOMETRIC_CENTER
+134,"Kolej Komuniti Hulu Selangor, Selangor",Selangor,3.4497399,101.6643389,ROOFTOP
+135,"Kolej Komuniti Klang, Selangor",Selangor,3.0269057,101.4428042,ROOFTOP
+136,"Kolej Komuniti Kuala Langat, Selangor",Selangor,2.8245932,101.4490095,GEOMETRIC_CENTER
+137,"Maktab Koperasi Malaysia Petaling Jaya, Selangor",Selangor,3.0962728,101.6422666,GEOMETRIC_CENTER
+138,"Institut Perindustrian MARA Jepun Beranang, Selangor",Selangor,2.9048983,101.8643918,GEOMETRIC_CENTER
+139,"Politeknik Banting, Selangor",Selangor,2.8259287,101.465301,GEOMETRIC_CENTER
+140,"Politeknik Sultan Idris Shah, Selangor",Selangor,3.810893,100.819972,GEOMETRIC_CENTER
+141,"Politeknik Sultan Salahuddin Abdul Aziz Shah, Shah Alam, Selangor",Selangor,3.0853797,101.5574892,APPROXIMATE
+142,"Pusat Bimbingan Usahawan Serdang, Selangor",Selangor,2.9898253,101.7262089,GEOMETRIC_CENTER
+143,"Pusat Latihan JAKOA Damansara Damai, Selangor",Selangor,3.1890077,101.5964702,ROOFTOP
+144,"Pusat Latihan Kejuruteraan Pertanian Serdang, Selangor",Selangor,2.998299,101.6976641,GEOMETRIC_CENTER
+145,"Pusat Latihan Mardi Serdang, Selangor",Selangor,2.9956638,101.7025271,GEOMETRIC_CENTER
+146,"Pusat Latihan Teknologi Tinggi Shah Alam, Selangor",Selangor,3.010968,101.510152,ROOFTOP
+147,"Pusat Latihan Pengajar dan Kemahiran Lanjutan, Selangor",Selangor,3.0539839,101.5250575,GEOMETRIC_CENTER
+148,"Akademi Kenegaraan Biro Tatanegara, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1286463,101.6984493,GEOMETRIC_CENTER
+149,"Akademi Pencegahan Rasuah Malaysia, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.167945,101.6723034,GEOMETRIC_CENTER
+150,"Institut Integriti Malaysia, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1683068,101.6731673,GEOMETRIC_CENTER
+151,"Institut Kemahiran Belia Negara Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1430454,101.7336292,GEOMETRIC_CENTER
+152,"Institut Tadbiran Awam Negara Kampus Utama Bukit Kiara, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.140827,101.650148,ROOFTOP
+153,"Institut Tadbiran Awam Negara Kampus Wilayah Tengah, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1194707,101.6489615,ROOFTOP
+154,"Institut Penyiaran dan Penerangan Tun Abdul Razak, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1112178,101.6728909,ROOFTOP
+155,"Institut Diplomasi dan Hubungan Luar Negeri, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.13349,101.7029902,GEOMETRIC_CENTER
+156,"Institut Kemahiran MARA Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1430811,101.7335645,ROOFTOP
+157,"Institut Kemahiran Belia Negara Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1430454,101.7336292,GEOMETRIC_CENTER
+158,"Institut Latihan KEMAS Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1283065,101.69075,GEOMETRIC_CENTER
+159,"Institut Latihan Dewan Bandaraya Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.0937577,101.7222237,GEOMETRIC_CENTER
+160,"Institut Sosial Malaysia, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.078339,101.7012253,ROOFTOP
+161,"Institut Pendidikan Guru, Kampus Bahasa Melayu, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1219024,101.6631772,GEOMETRIC_CENTER
+162,"Institut Pendidikan Guru, Kampus Ilmu Khas, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1074799,101.7262845,GEOMETRIC_CENTER
+163,"Institut Pendidikan Guru, Kampus Bahasa Antarabangsa, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.1222696,101.6647862,GEOMETRIC_CENTER
+164,"Institut Latihan Perindustrian Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.0929095,101.6877479,GEOMETRIC_CENTER
+165,"Unit Pemodenan Tadbiran dan Perancangan Pengurusan Malaysia, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,2.93706,101.6955202,GEOMETRIC_CENTER
+166,"Politeknik Metro Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",WP Kuala Lumpur,3.177967,101.7421582,ROOFTOP
+167,"Akademi Imigresen Malaysia, Negeri Sembilan",Negeri Sembilan,2.419711,101.8928587,ROOFTOP
+168,"Akademi Pembangunan Belia Malaysia (Kepimpinan) Port Dickson, Negeri Sembilan",Negeri Sembilan,2.4136012,101.9458643,GEOMETRIC_CENTER
+169,"Pusat Pengajaran Bahasa Inggeris, Negeri Sembilan",Negeri Sembilan,2.7266655,101.7995907,GEOMETRIC_CENTER
+170,"Institut Aminuddin Baki, Bandar Enstek, Negeri Sembilan",Negeri Sembilan,2.7275955,101.7934498,ROOFTOP
+171,"Institut Kajian dan Latihan Integrasi Nasional, Nilai, Negeri Sembilan",Negeri Sembilan,2.8143264,101.7924339,ROOFTOP
+172,"Institut Kemahiran Tinggi Belia Negara Chembong, Negeri Sembilan",Negeri Sembilan,2.6215179,102.0692459,ROOFTOP
+173,"Institut Latihan FAMA, Negeri Sembilan",Negeri Sembilan,2.4196302,101.8911655,GEOMETRIC_CENTER
+174,"Institut Latihan Perindustrian Pedas, Negeri Sembilan",Negeri Sembilan,2.5916273,102.0490566,GEOMETRIC_CENTER
+175,"Institut Pendidikan Guru, Kampus Pendidikan Teknik, Negeri Sembilan",Negeri Sembilan,2.7299934,101.7992301,ROOFTOP
+176,"Institut Pendidikan Guru, Kampus Raja Melewar, Negeri Sembilan",Negeri Sembilan,2.739332,101.9592742,GEOMETRIC_CENTER
+177,"Kem Bina Negara Kuarters KLIA, Negeri Sembilan",Negeri Sembilan,2.7678637,101.7662126,GEOMETRIC_CENTER
+178,"Kem Bina Negara Ulu Sepri, Negeri Sembilan",Negeri Sembilan,2.6547771,102.0906006,GEOMETRIC_CENTER
+179,"Kem Wawasan Negara, Kuarters KLIA, Negeri Sembilan",Negeri Sembilan,2.7678637,101.7662126,GEOMETRIC_CENTER
+180,"Kolej Kemahiran Tinggi Mara Rembau, Negeri Sembilan",Negeri Sembilan,2.5199095,102.0340536,GEOMETRIC_CENTER
+181,"Kolej Komuniti Rembau, Negeri Sembilan",Negeri Sembilan,2.5749647,102.0453689,GEOMETRIC_CENTER
+182,"Kolej Komuniti Tampin, Negeri Sembilan",Negeri Sembilan,2.525534,102.3898702,ROOFTOP
+183,"Kolej Komuniti Jelebu, Negeri Sembilan",Negeri Sembilan,2.979152,102.057327,GEOMETRIC_CENTER
+184,"Kolej Komuniti Jempol, Negeri Sembilan",Negeri Sembilan,2.8470241,102.4070971,GEOMETRIC_CENTER
+185,"Politeknik Nilai Negeri Sembilan, Negeri Sembilan",Negeri Sembilan,2.7215095,101.7944568,GEOMETRIC_CENTER
+186,"Politeknik Port Dickson, Negeri Sembilan",Negeri Sembilan,2.44423,101.863174,APPROXIMATE
+187,"Pusat Keluarga LPPKN Seremban 2, Negeri Sembilan",Negeri Sembilan,2.6937085,101.9100658,GEOMETRIC_CENTER
+188,"Akademi Kastam Diraja Malaysia Melaka, Melaka",Melaka,2.2288311,102.2772834,ROOFTOP
+189,"Akademi Jabatan Pengangkutan Jalan Malaysia (Induk), Melaka",Melaka,2.230947,102.2971421,GEOMETRIC_CENTER
+190,"Asrama Jururawat Hospital Jasin, Melaka",Melaka,2.3049027,102.4284476,GEOMETRIC_CENTER
+191,"Institut Kemahiran Belia Negara Alor Gajah, Melaka",Melaka,2.3811184,102.090419,GEOMETRIC_CENTER
+192,"Institut Kemahiran MARA Jasin, Melaka",Melaka,2.301398,102.4386533,GEOMETRIC_CENTER
+193,"Institut Latihan Perindustrian Bukit Katil, Melaka",Melaka,2.240281,102.298482,GEOMETRIC_CENTER
+194,"Institut Latihan Perindustrian Selandar, Melaka",Melaka,2.3959713,102.3820863,ROOFTOP
+195,"Institut Pendidikan Guru Kampus Perempuan Melayu, Melaka",Melaka,2.2101163,102.2607586,GEOMETRIC_CENTER
+196,"Institut Teknologi Unggas Alor Gajah, Melaka",Melaka,2.3839271,102.0892639,ROOFTOP
+197,"Jabatan Agama Islam Melaka, Melaka",Melaka,2.215152,102.2638781,GEOMETRIC_CENTER
+198,"Kem Bina Negara Alor Gajah, Melaka",Melaka,2.4579084,102.2890672,GEOMETRIC_CENTER
+199,"Kolej Kemahiran Tinggi Mara Masjid Tanah, Melaka",Melaka,2.4248601,102.0689039,ROOFTOP
+200,"Kolej Kejururawatan Melaka, Melaka",Melaka,2.2202411,102.2599519,GEOMETRIC_CENTER
+201,"Pusat Latihan Kemas Melaka, Melaka",Melaka,2.2222643,102.2743651,GEOMETRIC_CENTER
+202,"Kolej Komuniti Kota Melaka, Melaka",Melaka,2.22123,102.2358517,GEOMETRIC_CENTER
+203,"Kolej Komuniti Masjid Tanah, Melaka",Melaka,2.366217,102.0932921,GEOMETRIC_CENTER
+204,"Kolej Komuniti Selandar, Melaka",Melaka,2.400261,102.384941,GEOMETRIC_CENTER
+205,"Kolej Komuniti Tangga Batu, Melaka",Melaka,2.2196377,102.192425,ROOFTOP
+206,"Kolej Komuniti Bukit Beruang, Melaka",Melaka,2.2551555,102.2776121,ROOFTOP
+207,"Kolej Komuniti Jasin, Melaka",Melaka,2.1401959,102.4305917,GEOMETRIC_CENTER
+208,"Politeknik Melaka, Melaka",Melaka,2.229484,102.226152,ROOFTOP
+209,"Politeknik Merlimau, Melaka",Melaka,2.1678105,102.4297971,GEOMETRIC_CENTER
+210,"Pusat Kecemerlangan Kejuruteraan dan Teknologi JKR, Alor Gajah, Melaka",Melaka,2.4531857,102.2057522,GEOMETRIC_CENTER
+211,"Pusat Latihan RELA Wilayah Selatan, Melaka",Melaka,2.2971339,102.1335354,GEOMETRIC_CENTER
+212,"Pusat Latihan Teknologi Tinggi Melaka, Melaka",Melaka,2.4566403,102.1683691,GEOMETRIC_CENTER
+213,"Pusat Rehabilitasi PERKESO, Melaka",Melaka,2.2940581,102.3356513,GEOMETRIC_CENTER
+214,"Akademi Kastam Diraja Malaysia Cawangan Selatan, Johor",Johor,1.4651505,104.0403292,GEOMETRIC_CENTER
+215,"Akademi Jabatan Pengangkutan Jalan Wilayah Selatan, Johor Bahru, Johor",Johor,1.483379,103.7536819,GEOMETRIC_CENTER
+216,"Akademi Minyak dan Gas Johor Bahru, Johor",Johor,1.846086,103.9549699,GEOMETRIC_CENTER
+217,"Hospital Enche Besar Hajjah Khalsom, Kluang, Johor",Johor,2.0081238,103.3470945,GEOMETRIC_CENTER
+218,"Institut Latihan Perindustrian Tangkak, Johor",Johor,2.2999723,102.6019941,ROOFTOP
+219,"Institut Latihan Perindustrian Mersing, Johor,",Johor,2.3213369,103.8479501,ROOFTOP
+220,"Institut Latihan Perindustrian Pasir Gudang, Johor",Johor,1.4539799,103.9162387,GEOMETRIC_CENTER
+221,"Institut Latihan Rakan Muda Desaru, Bandar Penawar, Johor",Johor,1.5680781,104.2535782,GEOMETRIC_CENTER
+222,"Institut Kemahiran Belia Negara Bandar Penawar, Kota Tinggi, Johor",Johor,1.57392,104.210296,GEOMETRIC_CENTER
+223,"Institut Kemahiran Belia Negara Pagoh, Johor",Johor,2.1354639,102.718989,GEOMETRIC_CENTER
+224,"Institut Kemahiran Mara Johor Bahru, Johor",Johor,1.501365,103.7300692,ROOFTOP
+225,"Institut Tadbiran Awam Negara Kampus Selatan, Kluang, Johor",Johor,2.0155319,103.2932345,GEOMETRIC_CENTER
+226,"Institut Pendidikan Guru, Kampus Temenggong Ibrahim, Johor Bahru, Johor",Johor,1.4916416,103.7381619,GEOMETRIC_CENTER
+227,"Institut Pendidikan Guru, Kampus Tun Hussein Onn, Batu Pahat, Johor",Johor,1.8706001,102.9863959,GEOMETRIC_CENTER
+228,"Institut Pertanian Ayer Hitam, Johor",Johor,1.934049,103.1841154,APPROXIMATE
+229,"Institut Veterinar Malaysia Kluang, Johor",Johor,1.969523,103.224839,ROOFTOP
+230,"Kem Bina Negara Gunung Pulai, Kulai, Johor",Johor,1.5791316,103.5124185,GEOMETRIC_CENTER
+231,"Kem Pusat Latihan Khidmat Negara Sri Ledang, Jementah, Johor",Johor,2.3997611,102.6691037,GEOMETRIC_CENTER
+232,"Kolej Sains Kesihatan Bersekutu Johor Bahru, Johor",Johor,1.5248447,103.7078021,GEOMETRIC_CENTER
+233,"Kolej Kemahiran Tinggi Mara Ledang, Johor",Johor,2.1702061,102.5918733,GEOMETRIC_CENTER
+234,"Kolej Kemahiran Tinggi Mara Sri Gading, Johor",Johor,1.8504467,103.0788726,ROOFTOP
+235,"Kolej Komuniti Kota Tinggi, Johor",Johor,1.7313763,103.9011098,GEOMETRIC_CENTER
+236,"Kolej Komuniti Ledang, Johor",Johor,2.2863098,102.5593408,GEOMETRIC_CENTER
+237,"Kolej Komuniti Muar, Johor",Johor,2.038785,102.573311,ROOFTOP
+238,"Kolej Komuniti Pagoh, Johor",Johor,2.1327523,102.7168367,GEOMETRIC_CENTER
+239,"Kolej Komuniti Pasir Gudang, Johor",Johor,1.4950587,103.9123353,ROOFTOP
+240,"Kolej Komuniti Segamat, Johor",Johor,2.4941722,102.866624,ROOFTOP
+241,"Kolej Komuniti Segamat 2, Johor",Johor,2.5621359,102.7134669,GEOMETRIC_CENTER
+242,"Kolej Komuniti Bandar Penawar, Johor",Johor,1.562911,104.219055,GEOMETRIC_CENTER
+243,"Kolej Komuniti Tanjung Piai, Johor",Johor,1.478344,103.387945,GEOMETRIC_CENTER
+244,"Kolej Komuniti Bandar Tenggara, Johor",Johor,1.843867,103.6213202,GEOMETRIC_CENTER
+245,"Kolej Komuniti Batu Pahat, Johor",Johor,1.804098,102.964897,ROOFTOP
+246,"Kolej Komuniti Kluang, Johor",Johor,2.0101482,103.3100153,GEOMETRIC_CENTER
+247,"Kolej Yayasan Pelajaran Johor, Johor",Johor,1.7295706,103.700559,GEOMETRIC_CENTER
+248,"Kompleks Bimbingan Usahawan Tani Pagoh, Johor",Johor,2.1372903,102.7383691,GEOMETRIC_CENTER
+249,"Politeknik Sultan Ibrahim, Johor",Johor,1.5094577,103.9188697,ROOFTOP
+250,"Politeknik Mersing, Johor",Johor,2.417047,103.829169,GEOMETRIC_CENTER
+251,"Politeknik Metro Johor Bahru, Johor",Johor,1.5047974,103.7597272,ROOFTOP
+252,"Pusat Latihan Guru Dalam Perkhidmatan, Kulai, Johor",Johor,1.8583686,103.6367576,GEOMETRIC_CENTER
+253,"Pusat Latihan JAKOA, Kluang, Johor",Johor,2.04895,103.345371,GEOMETRIC_CENTER
+254,"Pusat Bimbingan Usahawan Ayer Hitam Johor, Johor",Johor,1.9370177,103.1841833,GEOMETRIC_CENTER
+255,"Pusat Bimbingan Usahawan Pagoh, Johor",Johor,2.1372903,102.7383691,GEOMETRIC_CENTER
+256,"Pusat Latihan dan Pembangunan Pengembangan Wilayah Selatan Ayer Hitam, Johor",Johor,1.9385803,103.1976938,GEOMETRIC_CENTER
+257,"Pusat Latihan dan Rekreasi Felcra Tebing Tinggi, Segamat, Johor",Johor,2.437401,102.7770586,GEOMETRIC_CENTER
+258,"Pusat Latihan Kokurikulum Jalan Tun Abdul Razak, Johor Bahru, Johor",Johor,1.4897065,103.7280083,GEOMETRIC_CENTER
+259,"Pusat Latihan Teknologi Tinggi Batu Pahat, Johor",Johor,1.7875555,102.9698476,GEOMETRIC_CENTER
+260,"Akademi Maritim Sultan Ahmad Shah, Kuantan, Pahang",Pahang,4.0268885,103.3752071,GEOMETRIC_CENTER
+261,"Institut Aminuddin Baki Cawangan Genting Highlands, Pahang",Pahang,3.3911283,101.7747626,GEOMETRIC_CENTER
+262,"Institut Kemahiran Belia Negara Pekan, Pahang",Pahang,3.4700285,103.0968726,GEOMETRIC_CENTER
+263,"Institut Kemahiran Tinggi Belia Negara Temerloh, Pahang",Pahang,3.4979546,102.227869,GEOMETRIC_CENTER
+264,"Institut Kemahiran Mara Tan Sri Yahya Ahmad Pekan, Pahang",Pahang,3.535565,103.3827354,GEOMETRIC_CENTER
+265,"Institut Latihan Kemas Kuantan, Pahang",Pahang,3.8206013,103.3517798,ROOFTOP
+266,"Institut Latihan Kementerian Kesihatan Malaysia (Kejururawatan), Kuantan, Pahang",Pahang,3.7991885,103.320955,GEOMETRIC_CENTER
+267,"Institut Latihan Perindustrian Kuantan, Pahang",Pahang,3.9661054,103.3741681,GEOMETRIC_CENTER
+268,"Institut Latihan Perumahan dan Kerajaan Tempatan, Pahang",Pahang,3.382166,101.827554,GEOMETRIC_CENTER
+269,"Institut Pendidikan Guru, Kampus Tengku Ampuan Afzan, Pahang",Pahang,4.174025,102.0075541,ROOFTOP
+270,"Institut Pertanian Kuala Lipis, Pahang",Pahang,4.188026,102.048692,GEOMETRIC_CENTER
+271,"Kem Bina Negara Bukit Sagu, Pahang",Pahang,3.9207983,103.166289,GEOMETRIC_CENTER
+272,"Kem Bina Negara Lipis, Pahang",Pahang,4.183855,101.9870521,GEOMETRIC_CENTER
+273,"Kem Bina Negara Maran, Pahang",Pahang,3.6512742,102.6990151,GEOMETRIC_CENTER
+274,"Kolej Kemahiran Tinggi MARA Kuantan, Pahang",Pahang,3.776905,103.2598624,GEOMETRIC_CENTER
+275,"Kolej Komuniti Pekan, Pahang",Pahang,3.521436,103.3914523,GEOMETRIC_CENTER
+276,"Kolej Komuniti Raub, Pahang",Pahang,3.8107269,101.8681825,ROOFTOP
+277,"Kolej Komuniti Rompin, Pahang",Pahang,2.818651,103.4439401,GEOMETRIC_CENTER
+278,"Kolej Komuniti Temerloh, Pahang",Pahang,3.4636444,102.3486239,ROOFTOP
+279,"Kolej Komuniti Bentong, Pahang",Pahang,3.4436357,102.0697545,GEOMETRIC_CENTER
+280,"Kolej Komuniti Bera, Pahang",Pahang,3.257409,102.4305354,ROOFTOP
+281,"Kolej Komuniti Jerantut, Pahang",Pahang,3.930876,102.381742,GEOMETRIC_CENTER
+282,"Kolej Komuniti Kuantan, Pahang",Pahang,3.8227883,103.2798289,GEOMETRIC_CENTER
+283,"Kolej Komuniti Lipis, Pahang",Pahang,4.1845536,102.0533073,GEOMETRIC_CENTER
+284,"Kolej Komuniti Paya Besar Kuantan, Pahang",Pahang,3.723848,103.0725516,GEOMETRIC_CENTER
+285,"Majlis Perbandaran Bentong, Pahang",Pahang,3.519963,101.913516,ROOFTOP
+286,"Pusat Pembangugan Kemahiran Pahang, Pahang",Pahang,3.8556154,103.3201876,GEOMETRIC_CENTER
+287,"Politeknik Metro Kuantan, Pahang",Pahang,3.8169731,103.3283288,ROOFTOP
+288,"Politeknik Muadzam Shah, Pahang",Pahang,3.0947226,103.0842957,GEOMETRIC_CENTER
+289,"Politeknik Sultan Haji Ahmad Shah Kuantan, Pahang",Pahang,3.8626197,103.3165089,GEOMETRIC_CENTER
+290,"Pusat Latihan Awam Kementerian Pertahanan Bukit Fraser, Pahang",Pahang,3.7070438,101.7360169,GEOMETRIC_CENTER
+291,"Pusat Latihan JAKOA Paya Bungor Kuantan, Pahang",Pahang,3.6712336,102.9109935,GEOMETRIC_CENTER
+292,"Pusat Latihan Jabatan Kesihatan Negeri Pahang, Kuantan, Pahang",Pahang,3.828249,103.2930944,GEOMETRIC_CENTER
+293,"Pusat Latihan Pertahanan Awam, Bandar Tun Razak, Jengka, Pahang",Pahang,3.7688058,102.5427295,GEOMETRIC_CENTER
+294,"Pusat Latihan Teknologi Tinggi Jerantut, Pahang",Pahang,3.8795451,102.3902931,GEOMETRIC_CENTER
+295,"Akademi Bomba dan Penyelamat Malaysia Wakaf Tapai, Terengganu",Terengganu,5.1460588,103.0845767,GEOMETRIC_CENTER
+296,"Akademi Perikanan Malaysia, Terengganu",Terengganu,5.265357,103.18387,GEOMETRIC_CENTER
+297,"Pusat Latihan Darul Iman, Kemaman, Terengganu",Terengganu,4.2714622,103.4738759,GEOMETRIC_CENTER
+298,"Hotel UiTM Dungun, Terengganu",Terengganu,4.707774,103.441058,GEOMETRIC_CENTER
+299,"Institut Latihan Islam Malaysia Wilayah Timur, Terengganu",Terengganu,5.7975594,102.6032894,GEOMETRIC_CENTER
+300,"Institut Latihan Perindustrian Kuala Terengganu, Terengganu",Terengganu,5.395533,103.0751644,GEOMETRIC_CENTER
+301,"Institut Tadbiran Awam Negara Kampus Wilayah Timur, Terengganu",Terengganu,4.1953609,103.4407432,GEOMETRIC_CENTER
+302,"Institut Kemahiran Belia Negara Wakaf Tapai, Terengganu",Terengganu,5.1508553,103.0794174,GEOMETRIC_CENTER
+303,"Institut Kemahiran Belia Negara Kemasik, Terengganu",Terengganu,4.3972774,103.4471054,GEOMETRIC_CENTER
+304,"Institut Kemahiran Mara Besut, Terengganu",Terengganu,5.7643176,102.5586187,GEOMETRIC_CENTER
+305,"Institut Pendidikan Guru, Kampus Dato’ Razali Ismail, Terengganu",Terengganu,5.4226876,103.0565047,GEOMETRIC_CENTER
+306,"Institut Pendidikan Guru, Kampus Sultan Mizan, Terengganu",Terengganu,5.7995814,102.5944931,GEOMETRIC_CENTER
+307,"Kem Bina Negara Besut, Besut, Terengganu",Terengganu,5.8066988,102.5948355,GEOMETRIC_CENTER
+308,"Kolej Kemahiran Tinggi Mara Kemaman, Terengganu",Terengganu,4.1903776,103.4064025,ROOFTOP
+309,"Kolej Komuniti Kemaman, Terengganu",Terengganu,4.3362051,103.4787707,GEOMETRIC_CENTER
+310,"Kolej Komuniti Kuala Terengganu, Terengganu",Terengganu,5.330849,103.14261,GEOMETRIC_CENTER
+311,"Kompleks Rakan Muda Besut, Terengganu",Terengganu,5.7880074,102.5690111,GEOMETRIC_CENTER
+312,"Peladang Setiu Agro Resort, Terengganu",Terengganu,5.5929341,102.6796951,GEOMETRIC_CENTER
+313,"Politeknik Hulu Terengganu, Terengganu",Terengganu,5.070369,103.009971,GEOMETRIC_CENTER
+314,"Politeknik Kuala Terengganu, Terengganu",Terengganu,5.329936,103.1354809,GEOMETRIC_CENTER
+315,"Politeknik Sultan Mizan Zainal Abidin, Terengganu",Terengganu,4.7101697,103.4021673,GEOMETRIC_CENTER
+316,"Pusat Bimbingan Usahawan Ajil, Terengganu",Terengganu,5.0134671,103.1480248,GEOMETRIC_CENTER
+317,"Pusat Kokurikulum Terengganu, Hulu Terengganu, Terengganu",Terengganu,5.0585749,103.0491621,GEOMETRIC_CENTER
+318,"Pusat Latihan dan Pembangunan Pengembangan Wilayah Timur Besut, Terengganu",Terengganu,5.6569213,102.6162315,GEOMETRIC_CENTER
+319,"Pusat Latihan Felda Wilayah Terengganu, Tepoh, Kuala Nerus, Terengganu",Terengganu,5.3547378,103.0608123,GEOMETRIC_CENTER
+320,"Pusat Latihan KEMAS Terengganu, Kuala Nerus, Terengganu",Terengganu,5.361154,103.1227319,GEOMETRIC_CENTER
+321,"Pusat Latihan RELA Wilayah Timur, Terengganu",Terengganu,5.0146797,102.954749,GEOMETRIC_CENTER
+322,"Pusat Latihan Veterinar Cermin Kiri, Terengganu",Terengganu,4.8309745,103.1955108,GEOMETRIC_CENTER
+323,"Pusat Latihan Teknologi Tinggi Kemaman, Terengganu",Terengganu,4.3760939,103.393274,GEOMETRIC_CENTER
+324,"Pusat Pembangunan Kemahiran Terengganu, Terengganu",Terengganu,5.2153134,103.1569688,GEOMETRIC_CENTER
+325,"Scout Inn, Kuala Nerus, Terengganu",Terengganu,5.3846707,103.1123459,GEOMETRIC_CENTER
+326,"Sektor Sumber Teknologi Pendidikan, Marang, Terengganu",Terengganu,5.206903,103.198656,GEOMETRIC_CENTER
+327,"Terengganu Advance Technical Institute, Terengganu",Terengganu,4.36089,103.2663479,GEOMETRIC_CENTER
+328,"Akademi Kastam Diraja Malaysia Cawangan Timur, Kelantan",Kelantan,6.0035531,102.0003295,GEOMETRIC_CENTER
+329,"Akademi Pencegahan Rasuah Malaysia Wilayah Timur, Kelantan",Kelantan,6.0988887,102.2682339,ROOFTOP
+330,"Akademi Pengangkutan Jalan Malaysia Wilayah Timur, Kelantan",Kelantan,6.1151737,102.2425467,ROOFTOP
+331,"Institut Latihan Perindustrian Kota Bharu, Kelantan",Kelantan,6.1549982,102.30376,GEOMETRIC_CENTER
+332,"Institut Kemahiran Belia Negara Bachok, Kelantan",Kelantan,5.9897989,102.4072763,GEOMETRIC_CENTER
+333,"Institut Pendidikan Guru, Pengkalan Chepa, Kelantan",Kelantan,6.1625,102.294,GEOMETRIC_CENTER
+334,"Kolej Kemahiran Tinggi Mara Pasir Mas, Kelantan",Kelantan,6.0044223,102.0961973,GEOMETRIC_CENTER
+335,"Kolej Komuniti Jeli, Tanah Merah, Kelantan",Kelantan,5.8276405,101.8968761,GEOMETRIC_CENTER
+336,"Kolej Komuniti Kok Lanas, Kelantan",Kelantan,5.9137384,102.2416954,GEOMETRIC_CENTER
+337,"Kolej Komuniti Pasir Mas, Kelantan",Kelantan,6.1201418,102.2166534,ROOFTOP
+338,Kompleks Belia dan Sukan Negeri Kelantan,Kelantan,6.1201245,102.2892222,GEOMETRIC_CENTER
+339,"Politeknik Jeli, Kelantan",Kelantan,5.7106167,101.8502998,GEOMETRIC_CENTER
+340,"Politeknik Kota Bharu, Kelantan",Kelantan,5.9229637,102.2360812,GEOMETRIC_CENTER
+341,"Pusat Bimbingan Usahawan Melor Kelantan, Kelantan",Kelantan,5.9658392,102.3010438,GEOMETRIC_CENTER
+342,"Akademi Bomba dan Penyelamat Malaysia Sarawak, Sarawak",Sarawak,1.4054643,110.1342031,GEOMETRIC_CENTER
+343,"Akademi Kastam Diraja Malaysia Cawangan Sarawak, Sarawak",Sarawak,1.570848,110.304738,ROOFTOP
+344,"Institut Aminuddin Baki Cawangan Sarawak, Sarawak",Sarawak,1.6895963,110.3480098,GEOMETRIC_CENTER
+345,"Institut Kemahiran Belia Negara Miri, Sarawak",Sarawak,4.453066,114.0424222,GEOMETRIC_CENTER
+346,"Institut Kemahiran Islam Malaysia Sarawak, Kuching, Sarawak",Sarawak,1.661888,110.2080251,GEOMETRIC_CENTER
+347,"Institut Latihan Kementerian Kesihatan Malaysia, Kuching, Sarawak",Sarawak,1.4606402,110.3297033,ROOFTOP
+348,"Institut Latihan Perindustrian Kota Samarahan, Sarawak",Sarawak,1.4927885,110.410618,GEOMETRIC_CENTER
+349,"Institut Latihan Perindustrian Miri, Sarawak",Sarawak,4.4940702,114.0430132,GEOMETRIC_CENTER
+350,"Institut Kemahiran MARA, Bintulu, Sarawak",Sarawak,3.1326439,113.0576134,GEOMETRIC_CENTER
+351,"Institut Kemahiran MARA, Kuching, Sarawak",Sarawak,1.6176909,110.3480098,APPROXIMATE
+352,"Institut Kemajuan Desa Cawangan Sarawak, Sarawak",Sarawak,1.4551176,110.4184317,GEOMETRIC_CENTER
+353,"Institut Pendidikan Guru Kampus Sarawak, Sarawak",Sarawak,4.3245495,113.9664871,GEOMETRIC_CENTER
+354,"Institut Pendidikan Guru Kampus Rajang, Sarawak",Sarawak,2.06919,111.6780721,GEOMETRIC_CENTER
+355,"Institut Pendidikan Guru Kampus Tun Abdul Razak, Sarawak",Sarawak,1.4479629,110.464581,GEOMETRIC_CENTER
+356,"Institut Pendidikan Guru Kampus Batu Lintang, Sarawak",Sarawak,1.5296707,110.3482343,GEOMETRIC_CENTER
+357,"Institut Pendidikan Guru Miri, Sarawak",Sarawak,4.3245495,113.9664871,GEOMETRIC_CENTER
+358,"Institut Pertanian Sarawak Semongok, Sarawak",Sarawak,1.538244,110.345592,GEOMETRIC_CENTER
+359,"Institut Tadbiran Awam Negara Kampus Sarawak, Kota Samarahan, Sarawak",Sarawak,1.456427,110.423474,ROOFTOP
+360,"Jabatan Belia dan Sukan Sarawak, Kuching, Sarawak",Sarawak,1.5381676,110.3391317,GEOMETRIC_CENTER
+361,"Kampung Sukan Petronas Miri, Sarawak",Sarawak,4.4062875,113.9971249,GEOMETRIC_CENTER
+362,"Kem Bina Negara Sampadi Sarawak, Lundu, Sarawak",Sarawak,1.695311,110.0284141,GEOMETRIC_CENTER
+363,"Kem Belia Kemuyang, Sibu, Sarawak",Sarawak,2.3364219,111.9665321,GEOMETRIC_CENTER
+364,"Kolej Kejururawatan Sibu, Sarawak",Sarawak,2.2967802,111.8895562,ROOFTOP
+365,"Kolej Komuniti Betong, Sarawak",Sarawak,1.4035152,111.5363013,GEOMETRIC_CENTER
+366,"Kolej Komuniti Kuching, Sarawak",Sarawak,1.6076755,110.3420518,ROOFTOP
+367,"Kolej Komuniti Mas Gading, Sarawak",Sarawak,1.4169247,110.1562858,GEOMETRIC_CENTER
+368,"Kolej Komuniti Miri, Sarawak",Sarawak,4.4516245,114.0354989,GEOMETRIC_CENTER
+369,"Kolej Komuniti Santubong, Sarawak",Sarawak,1.587277,110.417836,GEOMETRIC_CENTER
+370,"Kompleks Belia dan Sukan Sarawak, Kuching, Sarawak",Sarawak,1.5396119,110.33776,GEOMETRIC_CENTER
+371,"Pejabat Setiausaha Persekutuan Sarawak, Sarawak",Sarawak,1.5327599,110.359252,GEOMETRIC_CENTER
+372,"Politeknik Kuching, Sarawak",Sarawak,1.629619,110.195187,GEOMETRIC_CENTER
+373,"Politeknik Mukah, Sarawak",Sarawak,2.8728038,112.0208143,GEOMETRIC_CENTER
+374,"Pusat Latihan Staf Baru Universiti Malaysia Sarawak, Sarawak",Sarawak,1.4649219,110.4268549,GEOMETRIC_CENTER
+375,"Pusat Latihan Teknologi Tinggi Bintulu, Sarawak",Sarawak,3.1253991,113.0648615,GEOMETRIC_CENTER
+376,"Pusat Latihan Sarawak, Kuching, Sarawak",Sarawak,1.664922,110.2084088,GEOMETRIC_CENTER
+377,"Pusat Pembangunan Kemahiran Sarawak, Kuching, Sarawak",Sarawak,1.5178672,110.3832367,ROOFTOP
+378,"Stadium Tertutup Limbang, Sarawak",Sarawak,4.927797,114.9492767,ROOFTOP
+379,"Taman Negara Similajau, Bintulu, Sarawak",Sarawak,3.3482887,113.1563939,GEOMETRIC_CENTER
+380,"Akademi Bomba dan Penyelamat Malaysia Sabah, Sabah",Sabah,6.0510502,116.1513716,GEOMETRIC_CENTER
+381,"Akademi Kastam Diraja Malaysia Cawangan Sabah, Sabah",Sabah,6.0507514,116.1615342,GEOMETRIC_CENTER
+382,"Institut Aminuddin Baki Cawangan Sabah, Sabah",Sabah,6.0575662,116.1769535,GEOMETRIC_CENTER
+383,"Institut Kemahiran Belia Negara Kinarut, Sabah",Sabah,5.805331,116.0336149,GEOMETRIC_CENTER
+384,"Institut Kemahiran Mara Kota Kinabalu, Sabah",Sabah,6.084436,116.152497,ROOFTOP
+385,"Institut Latihan Kementerian Kesihatan Malaysia, Kota Kinabalu, Sabah",Sabah,5.9466631,116.1053157,ROOFTOP
+386,"Institut Latihan Perindustrian Sandakan, Sandakan, Sabah",Sabah,5.8437581,118.0500779,GEOMETRIC_CENTER
+387,"Institut Latihan Perindustrian Kota Kinabalu, Sabah",Sabah,6.0773926,116.155222,GEOMETRIC_CENTER
+388,"Institut Pendidikan Guru Kampus Tawau, Tawau, Sabah",Sabah,4.3698455,118.091636,GEOMETRIC_CENTER
+389,"Institut Pendidikan Guru Kampus Gaya, Sabah",Sabah,5.9611087,116.0764657,GEOMETRIC_CENTER
+390,"Institut Pendidikan Guru Kampus Keningau, Sabah",Sabah,5.3082452,116.1566649,GEOMETRIC_CENTER
+391,"Institut Pendidikan Guru Kampus Kent, Sabah",Sabah,6.1235339,116.219673,GEOMETRIC_CENTER
+392,"Institut Tadbiran Awam Negara Kampus Sabah, Kota Kinabalu, Sabah",Sabah,6.1166595,116.1608076,ROOFTOP
+393,"Kem Bina Negara Kundasang, Sabah",Sabah,5.9740759,116.5819966,GEOMETRIC_CENTER
+394,"Kolej Komuniti Lahad Datu, Sabah",Sabah,5.0266249,118.2940865,GEOMETRIC_CENTER
+395,"Kolej Komuniti Sandakan, Sabah",Sabah,5.880968,118.0488836,GEOMETRIC_CENTER
+396,"Kolej Komuniti Semporna, Sabah",Sabah,4.47781,118.6084447,GEOMETRIC_CENTER
+397,"Kolej Komuniti Tawau, Sabah",Sabah,4.2537879,117.9207981,GEOMETRIC_CENTER
+398,"Kolej Sains Kesihatan Bersekutu Kota Kinabalu, Sabah",Sabah,5.9466631,116.1053157,ROOFTOP
+399,"Pusat Latihan RELA Wilayah Sabah, Tuaran, Sabah",Sabah,6.121531,116.1462999,GEOMETRIC_CENTER
+400,"Politeknik Kota Kinabalu, Sabah",Sabah,6.0982034,116.164007,APPROXIMATE
+401,"Politeknik Sandakan, Sandakan, Sabah",Sabah,5.9204816,118.0037558,GEOMETRIC_CENTER
+402,"Projek Perumahan Rakyat Batu Puteh, Sandakan, Sabah",Sabah,5.9113046,118.046712,GEOMETRIC_CENTER
+403,"Pusat Latihan Kemahiran Sabah, Kota Kinabalu, Sabah",Sabah,6.0359266,116.128374,GEOMETRIC_CENTER
+404,"Universiti Malaysia Sabah, Sandakan, Sabah",Sabah,5.9296747,118.0108024,ROOFTOP
+405,"Rumah Rehat Kerajaan, Ranau, Sabah",Sabah,5.953561,116.6639501,APPROXIMATE
+406,"Rumah Rehat Majlis Daerah Kinabatangan, Sabah",Sabah,5.5815217,117.8421822,GEOMETRIC_CENTER
+407,"Institut Latihan Perindustrian Labuan, Wilayah Persekutuan Labuan",WP Labuan,5.3090003,115.2281902,GEOMETRIC_CENTER
+408,"Rumah Transit Hospital Labuan, Labuan, Wilayah Persekutuan Labuan",WP Labuan,5.3102589,115.2299188,GEOMETRIC_CENTER

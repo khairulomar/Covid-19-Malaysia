@@ -1,0 +1,145 @@
+,Nama hospital,Daerah,Negeri,Covid-19 Screening Hospital,Covid-19 Admitting Hospital*,Kategori hospital,Bil. Katil Rasmi,Bil. Katil Operasi,Kemasukan pesakit,Purata Harian Kemasukan,Kadar Penggunaan Katil (%),Purata Masa Tinggal (Hari),Jangkamasa Katil dikosongkan (Hari)
+1,"Hospital Tuanku Fauziah, Kangar",,Perlis,yes,yes,Hospital Negeri,408,408,37136,101.46,92.02,3.7,0.32
+3,Hospital Sultanah Bahiyah,,Kedah,yes,yes,Hospital Negeri,1084,1084,74719,204.15,81.16,4.27,0.99
+4,Hospital Sultan Abdul Halim,,Kedah,yes,,Hospital Pakar Major,628,624,45412,124.08,87.81,3.97,0.55
+5,Hospital Kulim,Kulim,Kedah,yes,,Hospital Pakar Major,350,350,31015,84.74,73.1,3.02,1.11
+6,Hospital Baling,Baling,Kedah,,,Hospital Tanpa Pakar,160,115,9994,27.31,53.36,2.25,1.96
+7,Hospital Langkawi,Langkawi,Kedah,yes,yes,Hospital Pakar Minor,110,110,9110,24.89,88.92,3.94,0.49
+8,Hospital Sik,Sik,Kedah,,,Hospital Tanpa Pakar,93,93,6398,17.48,39.51,2.1,3.22
+9,Hospital Kuala Nerang,Kuala Nerang,Kedah,,,Hospital Tanpa Pakar,72,72,5370,14.67,43.53,2.14,2.77
+10,Hospital Jitra,Jitra,Kedah,,,Hospital Tanpa Pakar,103,103,7592,20.74,47.55,2.36,2.6
+11,Hospital Yan,Yan,Kedah,,,Hospital Tanpa Pakar,89,89,5740,15.68,43.14,2.45,3.23
+13,Hospital Pulau Pinang,,Pulau Pinang,yes,yes,Hospital Negeri,1201,1136,56544,154.49,72.2,5.25,2.02
+14,Hospital Bukit Mertajam,Bukit Mertajam,Pulau Pinang,yes,,Hospital Pakar Minor,242,242,19720,53.88,70.72,3.18,1.32
+15,Hospital Sungai Bakap,Sungai Bakap,Pulau Pinang,,,Hospital Tanpa Pakar,105,105,5669,15.49,51.15,3.46,3.31
+16,Hospital Balik Pulau,,Pulau Pinang,,,Hospital Tanpa Pakar,81,81,5022,13.72,52.52,3.1,2.8
+17,Hospital Kepala Batas,,Pulau Pinang,yes,,Hospital Pakar Minor,108,108,12592,34.4,89.99,2.82,0.31
+18,Hospital Seberang Jaya,,Pulau Pinang,yes,,Hospital Pakar Major,393,393,33548,91.66,82.2,3.52,0.76
+20,Hospital Raja Permaisuri Bainon,,Perak,yes,yes,Hospital Negeri,990,990,72413,197.85,75.83,3.78,1.2
+21,Hospital Teluk Intan,,Perak,yes,,Hospital Pakar Major,608,548,32429,88.6,54.83,3.42,2.82
+22,Hospital Gerik,,Perak,,,Hospital Pakar Minor,548,75,4625,12.64,42.94,2.55,3.39
+23,Hsopital Slim River,,Perak,yes,,Hospital Pakar Minor,75,188,9574,26.16,43.9,3.15,4.03
+24,Hospital Parit Buntar,,Perak,,,Hospital Tanpa Pakar,250,100,10754,29.38,64.32,2.21,1.22
+25,Hospital Seri Manjung,,Perak,yes,,Hospital Pakar Minor,100,293,28801,78.69,71.21,2.65,1.07
+26,Hospital Kuala Kangsar,,Perak,,,Hospital Pakar Minor,305,136,6383,17.44,35.92,2.8,5.0
+27,Hospital Taiping,,Perak,yes,,Hospital Pakar Major,136,608,45273,123.7,73.09,3.59,1.32
+28,Hospital Kampar,,Perak,,,Hospital Tanpa Pakar,90,68,4620,12.62,40.15,2.17,3.23
+29,Hospital Tapah,,Perak,,,Hospital Tanpa Pakar,100,100,6073,16.59,31.87,1.93,4.12
+30,Hospital Batu Gajah,,Perak,,,Hospital Tanpa Pakar,160,160,8879,24.26,50.14,3.3,3.28
+31,Hospital Changkat Melintang,,Perak,,,Hospital Tanpa Pakar,50,50,3870,10.57,36.91,1.75,2.98
+32,Hospital Selama,,Perak,,,Hospital Tanpa Pakar,90,90,4148,11.33,46.6,3.69,4.23
+33,Hospital Sungai Siput,,Perak,,,Hospital Tanpa Pakar,93,93,5156,14.09,42.37,2.79,3.8
+35,Hospital Tengku Ampuan Rahimah,,Selangor,yes,,Hospital Negeri,1154,1154,84197,230.05,84.08,4.2,0.8
+36,Hospital Kajang,,Selangor,yes,,Hospital Pakar Major,326,326,29551,80.74,84.28,3.4,0.63
+37,Hospital Banting,,Selangor,yes,,Hospital Pakar Minor,155,155,13230,36.15,69.64,2.98,1.3
+38,Hospital Tanjung Karang,,Selangor,,,Hospital Tanpa Pakar,114,114,7224,19.74,44.43,2.57,3.21
+39,Hospital Kuala Kubu Bharu,,Selangor,,,Hospital Tanpa Pakar,120,120,6539,17.87,46.88,3.14,3.56
+40,Hospital Selayang,,Selangor,yes,,Hospital Pakar Major,1012,994,23117,63.16,25.16,3.88,11.55
+41,Hospital Serdang,,Selangor,yes,,Hospital Pakar Major,691,632,50515,138.02,89.15,4.08,0.5
+42,Hospital Sungai Buloh,,Selangor,yes,yes,Hospital Pakar Major,730,678,48952,133.75,88.8,4.5,0.57
+43,Hospital Ampang,,Selangor,yes,,Hospital Pakar Major,562,512,42487,116.08,94.43,4.17,0.25
+44,Hospital Tengku Ampuan Jemaah,,Selangor,,,Hospital Tanpa Pakar,93,93,5448,14.89,34.57,2.16,4.08
+45,Hospital Orang Asli,,Selangor,,,Hospital Tanpa Pakar,93,93,529,1.45,19.46,12.48,51.63
+46,Hospital Shah Alam,,Selangor,yes,,Hospital Pakar Major,300,262,22253,60.8,73.41,3.17,1.15
+48,Hospital Kuala Lumpur,,WP Kuala Lumpur,yes,yes,Hospital Negeri,2131,2131,130383,356.24,77.6,4.65,1.33
+50,Hospital Putrajaya,,WP Putrajaya,yes,,Hospital Pakar Major,341,310,30254,82.66,100.48,3.76,-0.02
+52,Hospital Tuanku Jaafar,,Negeri Sembilan,yes,yes,Hospital Negeri,1070,1070,71359,194.97,76.03,4.18,1.3
+53,Hospital Tuanku Ampuan Najihah,,Negeri Sembilan,yes,,Hospital Pakar Major,314,314,23271,63.58,73.95,3.65,1.27
+54,Hospital Tampin,,Negeri Sembilan,yes,,Hospital Pakar Minor,108,104,6972,19.05,46.52,2.57,2.95
+55,Hospital Port Dickson,,Negeri Sembilan,,,Hospital Pakar Minor,113,113,9515,26.0,70.14,3.04,1.3
+56,Hospital Jelebu,,Negeri Sembilan,,,Hospital Tanpa Pakar,76,76,3413,9.33,45.95,3.76,4.42
+57,Hospital Jempol,,Negeri Sembilan,yes,,Hospital Tanpa Pakar,108,104,7087,19.36,50.75,2.72,2.64
+59,Hospital Melaka,,Melaka,yes,yes,Hospital Negeri,1091,1091,77969,213.03,82.98,4.16,0.84
+60,Hospital Alor Gajah,Alor Gajah,Melaka,yes,,Hospital Tanpa Pakar,95,95,7499,20.49,66.47,3.06,1.55
+61,Hospital Jasin,Jasin,Melaka,yes,,Hospital Tanpa Pakar,90,90,5821,15.9,58.11,3.28,2.37
+63,Hospital Sultanah Aminah,Johor Bahru,Johor,yes,yes,Hospital Negeri,1206,1206,82452,225.28,69.63,3.7,1.61
+64,Hospital Pakar Sultanah Fatimah,,Johor,yes,,Hospital Pakar Major,550,550,42933,117.3,72.52,3.4,1.29
+65,Hospital Sultanah Nora Ismail,Batu Pahat,Johor,yes,,Hospital Pakar Major,516,516,42052,114.9,71.7,3.22,1.27
+66,Hospital Enche' Besar Hajjah Khalsom,Kluang,Johor,yes,,Hospital Pakar Minor,268,268,27552,75.28,97.68,3.47,0.08
+67,Hospital Segamat,Segamat,Johor,yes,,Hospital Pakar Major,314,314,25350,69.26,67.48,3.06,1.47
+68,Hospital Pontian,Pontian,Johor,,,Hospital Tanpa Pakar,120,120,13046,35.64,61.84,2.08,1.28
+69,Hospital Kota Tinggi,Kota Tinggi,Johor,,,Hospital Pakar Minor,158,158,12032,32.87,38.85,1.87,2.94
+70,Hospital Mersing,Mersing,Johor,,,Hospital Tanpa Pakar,55,55,4080,11.15,64.73,3.19,1.74
+71,Hospital Tangkak,Tangkak,Johor,,,Hospital Tanpa Pakar,69,69,4580,12.51,31.31,1.72,3.78
+72,Hospital Sultan Ismail,Johor Bahru,Johor,yes,,Hospital Pakar Major,704,659,52546,143.57,82.15,3.78,0.82
+73,Hospital T.S. Maharaja Tun Ibrahim,,Johor,,,Hospital Tanpa Pakar,93,93,16540,45.19,80.28,1.65,0.41
+75,Hospital Tuanku Ampuan Afzan,Kuantan,Pahang,yes,yes,Hospital Negeri,851,851,57995,158.46,78.21,4.21,1.17
+76,Hospital Sultan Hj Ahmad Shah,Temerloh,Pahang,yes,,Hospital Pakar Major,110,650,43734,119.49,67.44,3.66,1.77
+77,Hospital Pekan,Pekan,Pahang,,,Hospital Pakar Minor,650,110,8224,22.47,59.65,2.92,1.98
+78,Hospital Jerantut,Jerantut,Pahang,,,Hospital Tanpa Pakar,77,77,6307,17.23,54.7,2.45,2.03
+79,Hospital Kuala Lipis,Kuala Lipis,Pahang,yes,,Hospital Pakar Minor,168,168,10520,28.74,65.46,3.81,2.01
+80,Hospital Raub,Rauh,Pahang,,,Hospital Tanpa Pakar,89,89,6138,16.77,43.87,2.32,2.97
+81,Hospital Bentong,Bentong,Pahang,,,Hospital Pakar Minor,152,152,7134,19.49,43.97,3.44,4.38
+82,Hospital Jengka,Jengka,Pahang,,,Hospital Tanpa Pakar,70,70,6301,17.22,55.2,2.24,1.82
+83,Hospital Sultanah Hajjah Kalsom,,Pahang,,,Hospital Tanpa Pakar,40,40,1698,4.64,30.19,2.6,6.02
+84,Hospital Muadzam Shah,Muadzam Shah,Pahang,,,Hospital Tanpa Pakar,49,49,4523,12.36,55.14,2.19,1.78
+85,Hospital Rompin,Rompin,Pahang,,,Hospital Tanpa Pakar,60,60,3007,8.22,30.4,2.22,5.07
+87,Hospital Sultanah Nur Zahirah,Kuala Terengganu,Terengganu,yes,yes,Hospital Negeri,1060,937,86041,235.08,84.33,3.36,0.62
+88,Hospital Besut,Besut,Terengganu,,,Hospital Pakar Minor,140,140,13618,37.21,58.65,2.21,1.56
+89,Hospital Dungun,Dungun,Terengganu,,,Hospital Pakar Minor,100,100,10666,29.14,49.7,1.7,1.73
+90,Hospital Kemaman,Kemaman,Terengganu,yes,,Hospital Pakar Major,150,150,17497,47.81,83.68,2.63,0.51
+91,Hospital Hulu Trengganu,Hulu Terengganu,Terengganu,yes,,Hospital Tanpa Pakar,119,119,8752,23.91,55.08,2.74,2.23
+92,Hospital Setiu,Setiu,Terengganu,,,Hospital Tanpa Pakar,76,76,5886,16.08,44.84,2.13,2.62
+94,Hospital Raja Perempuan Zainab II,Kota Bharu,Kelantan,yes,yes,Hospital Negeri,937,937,65224,178.21,84.3,4.43,0.83
+95,Hospital Kuala Krai,Kuala Krai,Kelantan,yes,yes,Hospital Pakar Major,172,172,14809,40.46,78.88,3.35,0.9
+96,Hospital Machang,Machang,Kelantan,,,Hospital Tanpa Pakar,90,90,9405,25.7,76.53,2.69,0.82
+97,Hospital Tumpat,Tumpat,Kelantan,yes,yes,Hospital Tanpa Pakar,119,119,9169,25.05,60.87,2.89,1.86
+98,Hospital Tanah Merah,Tanah Merah,Kelantan,yes,,Hospital Pakar Major,133,133,14158,38.68,93.95,3.23,0.21
+99,Hospital Pasir Mas,Pasir Mas,Kelantan,,,Hospital Tanpa Pakar,120,120,12357,33.76,67.31,2.39,1.16
+100,Hospital Gua Musang,Gua Musang,Kelantan,,,Hospital Pakar Minor,90,90,7703,21.05,63.82,2.72,1.54
+101,Hospital Jeli,Jeli,Kelantan,,,Hospital Tanpa Pakar,80,80,5135,14.03,45.99,2.63,3.09
+102,Hospital Tengku Anis,,Kelantan,,,Hospital Tanpa Pakar,75,75,6999,19.12,52.69,2.06,1.85
+104,Hospital Queen Elizabeth,Kota Kinabalu,Sabah,yes,yes,Hospital Negeri,775,464,18394,50.26,76.69,7.19,2.19
+105,Hospital Queen Elizabeth II,,Sabah,,,Hospital Pakar Major,400,360,18078,49.39,74.94,5.48,1.83
+106,Hospital Duchess Of Kent,Sandakan,Sabah,yes,yes,Hospital Pakar Major,400,400,34511,94.29,64.48,3.27,1.8
+107,Hospital Tawau,Tawau,Sabah,yes,yes,Hospital Pakar Major,401,401,26435,72.23,69.82,3.87,1.67
+108,Hospital Kudat,Kudat,Sabah,,,Hospital Tanpa Pakar,180,158,8676,23.7,46.76,3.12,3.55
+109,Hospital Kota Belud,Kota Belud,Sabah,,,Hospital Tanpa Pakar,172,172,8819,24.1,49.37,3.53,3.62
+110,Hospital Papar,Papar,Sabah,,,Hospital Tanpa Pakar,77,77,6293,17.19,49.01,2.2,2.29
+111,Hospital Beaufort,Beaufort,Sabah,,,Hospital Pakar Minor,275,184,6645,18.16,31.0,3.14,6.99
+112,Hospital Ranau,Ranau,Sabah,,,Hospital Tanpa Pakar,110,110,8476,23.16,53.44,2.53,2.21
+113,Hospital Tambunan,Tambunan,Sabah,,,Hospital Tanpa Pakar,49,49,2294,6.27,41.52,3.23,4.55
+114,Hospital Keningau,Keningau,Sabah,yes,yes,Hospital Pakar Minor,212,212,17529,47.89,88.08,3.9,0.53
+115,Hospital Lahad Datu,Lahad Datu,Sabah,yes,yes,Hospital Pakar Minor,268,244,12304,33.62,50.25,3.6,3.57
+116,Hospital Kinabatangan,Kinabatangan,Sabah,,,Hospital Tanpa Pakar,68,68,4014,10.97,48.73,3.02,3.18
+117,Hospital Tenom,Tenom,Sabah,,,Hospital Tanpa Pakar,70,70,4145,11.33,39.2,2.43,3.76
+118,Hospital Beluran,Beluran,Sabah,,,Hospital Tanpa Pakar,52,51,3121,8.53,51.23,3.08,2.93
+119,Hospital Semporna,Semporna,Sabah,,,Hospital Tanpa Pakar,70,70,6204,16.95,57.04,2.36,1.77
+120,Hospital Sipitang,Sipitang,Sabah,,,Hospital Tanpa Pakar,93,93,2643,7.22,19.35,2.49,10.37
+121,Hospital Kota Marudu,Kota Marudu,Sabah,,,Hospital Pakar Minor,97,97,7461,20.39,56.91,2.73,2.06
+122,Hospital Kuala Penyu,Kuala Penyu,Sabah,,,Hospital Tanpa Pakar,48,48,2540,6.94,44.27,3.05,3.85
+123,Hospital Pitas,Pita,Sabah,,,Hospital Tanpa Pakar,48,48,4862,13.28,88.63,3.21,0.41
+124,Hospital Kunak,Kunak,Sabah,,,Hospital Tanpa Pakar,48,48,3202,8.75,49.48,2.71,2.77
+125,Hospital Tuaran,Tuaran,Sabah,,,Hospital Tanpa Pakar,76,76,7343,20.06,69.73,2.62,1.14
+127,Hospital Labuan,Labuan,WP Labuan,yes,yes,Hospital Pakar Minor,122,122,8033,21.95,55.55,3.09,2.48
+129,Hospital Umum Sarawak,Kuching,Sarawak,yes,yes,Hospital Negeri,977,977,63368,173.14,90.23,5.09,0.55
+130,Hospital Raja Charles Brooke Memorial,,Sarawak,,,Hospital Tanpa Pakar,20,20,12,0.03,48.24,271.62,291.46
+131,Hospital Sri Aman,,Sarawak,,,Hospital Pakar Minor,96,96,5460,14.92,43.98,2.82,3.6
+132,Hospital Sibu,,Sarawak,yes,yes,Hospital Pakar Major,630,630,36599,100.0,67.86,4.31,2.04
+133,Hospital Miri,,Sarawak,yes,yes,Hospital Pakar Major,345,345,27041,73.88,80.56,3.75,0.91
+134,Hospital Limbang,,Sarawak,,,Hospital Pakar Minor,100,100,3650,9.97,27.83,2.79,7.24
+135,Hospital Sarikei,,Sarawak,yes,,Hospital Pakar Minor,212,182,9247,25.27,54.71,3.94,3.26
+136,Hospital Kapit,,Sarawak,,,Hospital Pakar Minor,134,134,6053,16.54,55.49,4.5,3.61
+137,Hospital Lundu,,Sarawak,,,Hospital Tanpa Pakar,46,46,2217,6.06,35.77,2.71,4.87
+138,Hospital Serian,,Sarawak,,,Hospital Tanpa Pakar,84,84,6014,16.43,41.96,2.15,2.97
+139,Hospital Simunjan,,Sarawak,,,Hospital Tanpa Pakar,42,36,1914,5.23,40.63,2.78,4.07
+140,Hospital Saratok,,Sarawak,,,Hospital Tanpa Pakar,106,106,2732,7.46,20.74,2.95,11.26
+141,Hospital Mukah,,Sarawak,,,Hospital Pakar Minor,80,80,3983,10.88,31.41,2.31,5.05
+142,Hospital Bintulu,,Sarawak,yes,yes,Hospital Pakar Major,292,292,21040,57.49,82.1,4.16,0.91
+143,Hospital Marudi,,Sarawak,,,Hospital Tanpa Pakar,54,54,1450,3.96,27.46,3.73,9.86
+144,Hospital Lawas,,Sarawak,,,Hospital Tanpa Pakar,46,46,2530,6.91,35.99,2.36,4.19
+145,Hospital Kanowit,,Sarawak,,,Hospital Tanpa Pakar,100,100,2025,5.53,21.96,3.98,14.15
+146,Hospital Bau,,Sarawak,,,Hospital Tanpa Pakar,68,68,3452,9.43,39.58,2.86,4.37
+147,Hospital Daro,,Sarawak,,,Hospital Tanpa Pakar,46,46,1533,4.19,20.93,2.29,8.63
+148,Hospital Betong,,Sarawak,,,Hospital Tanpa Pakar,48,48,3208,8.77,50.49,2.75,2.7
+149,Hospital Dalat,,Sarawak,,,Hospital Tanpa Pakar,8,8,601,1.64,44.74,2.18,2.69
+150,Pusat Jantung Sarawak,,Sarawak,,,Hospital Pakar Major (Spesific speciality only),106,106,1960,5.36,35.37,6.88,12.57
+152,Hospital Bahagia,,Perak,,,Institusi Perubatan Khas,1800,1800,2413,6.59,78.69,213.97,57.93
+153,Hospital Permai,,Johor,,,Institusi Perubatan Khas,1132,1132,1207,3.3,63.36,212.04,122.62
+154,Institut Perubatan Respiratori,,WP Kuala Lumpur,,,Institusi Perubatan Khas,118,118,2956,8.08,44.98,6.53,7.99
+155,Institut Kanser Negara,,WP Putrajaya,,,Institusi Perubatan Khas,252,226,7781,21.26,48.31,5.13,5.49
+156,Pusat Kawalan Kusta Negara,,Selangor,,,Institusi Perubatan Khas,90,90,27,0.07,74.34,627.9,216.72
+157,Hospital Mesra Bukit Padang,,Sabah,,,Institusi Perubatan Khas,302,270,914,2.5,70.58,78.89,32.89
+158,Hospital Sentosa,,Sarawak,,,Institusi Perubatan Khas,338,338,656,1.79,65.68,120.91,63.18
+159,"Hospital Wanita dan Kanak-Kanak, Likas",,Sabah,yes,yes,Institusi Perubatan Khas,504,637,44292,121.02,63.42,3.31,1.91
+160,Hospital Rehabilitasi Cheras,,WP Kuala Lumpur,,,Institusi Perubatan Khas,166,124,1196,3.27,39.69,15.26,23.2

@@ -1,0 +1,44 @@
+ID,Date passed away,Case Number,Gender,Citizenship,Age,Fever,Cough,Breathing difficulties,Severe Acute Respiratory Infection,Chronic disease,Date warded,Showed symptoms,Affiliation,Close Contact,Hospital,District,State,latitude,longitude
+1,2020-03-17,178,Male,Malaysian,34,1,0,0,0,0,,2020-05-03 00:00:00,Tabligh,,Hospital Permai,Johor Bahru,Johor,1.523149,103.7034009
+2,2020-03-17,358,Male,Malaysian,60,1,1,1,0,0,,2020-07-03 00:00:00,Non-Tabligh,,Hospital Umum,Kuching,Sarawak,1.5436269,110.3374145
+3,2020-03-18,1031,Male,Malaysian,79,1,1,0,0,0,2020-03-16,.,Non-Tabligh,,Borneo Medical Centre,Kuching,Sarawak,1.5291893,110.3554507
+4,2020-03-20,152,Male,Malaysian,58,0,0,0,1,0,2020-03-09,.,Tabligh,,Hospital Tawau,Tawau,Sabah,4.249723,117.8784888
+5,2020-03-21,238,Female,Malaysian,50,0,0,0,1,0,2020-03-12,.,Tabligh,,Hospital Melaka,Bandaraya Melaka,Melaka,2.2126409,102.2516684
+6,2020-03-21,1032,Female,Malaysian,40,1,1,0,0,0,2020-03-18,2020-07-03 00:00:00,Non-Tabligh,,Hospital Umum,Kuching,Sarawak,1.5436269,110.3374145
+7,2020-03-21,290,Male,Malaysian,57,0,0,0,0,0,2020-03-21,.,Tabligh,,Hospital Kuala Lumpur,Kuala Lumpur,WP Kuala Lumpur,3.1715251,101.699616
+8,2020-03-21,781,Male,Malaysian,69,1,0,0,0,0,2020-03-16,2020-12-03 00:00:00,Tabligh,,Hospital Raja Perempuan Zainab II,Kota Bharu,Kelantan,6.1252373,102.2435157
+9,2020-03-22,890,Male,Malaysian,48,0,0,0,0,0,,.,Non-Tabligh,,Hospital Tuanku Fauziah,Kangar,Perlis,6.4410639,100.1891512
+10,2020-03-22,259,Male,Malaysian,74,0,0,1,0,0,2020-03-14,.,Tabligh,,Hospital Pulau Pinang,Georgetown,Pulau Pinang,5.4166655,100.3088551
+11,2020-03-23,1070,Male,Malaysian,70,0,0,0,0,1,2020-03-18,.,Non-Tabligh,,Hospital Canselor Tuanku Muhriz UKM,Bandar Tun Razak,WP Kuala Lumpur,3.099267,101.7232078
+12,2020-03-23,1114,Male,Malaysian,70,.,.,.,.,.,,.,Tabligh,,Hospital Kluang,Kluang,Johor,2.0212025,103.3213242
+13,2020-03-23,1006,Male,Malaysian,49,.,.,.,.,.,,.,Non-Tabligh,,Hospital Umum,Kuching,Sarawak,1.5436269,110.3374145
+14,2020-03-23,595,Female,Malaysian,51,.,.,.,.,.,,.,Tabligh,,Hospital Miri,Miri,Sarawak,4.3928936,113.982978
+15,2020-03-24,1519,Male,Malaysian,71,,,,,1,2020-03-18,,"Non-Tabligh, contacted with Tabligh (#703)",703.0,Hospital Pakar Sultanah Fatimah,Muar,Johor,2.057115,102.5722516
+16,2020-03-24,1334,Male,Malaysian,75,,,,,1,2020-03-16,2020-11-03 00:00:00,TBD,,"Hospital Angkatan Tentera Tuanku Mizan, then HKL",Kuala Lumpur,WP Kuala Lumpur,3.1715251,101.699616
+17,2020-03-25,1251,Male,Malaysian,66,,,,,1,2020-03-20,13/3/2020,TBD,,Hospital Pakar Sultanah Fatimah,Muar,Johor,2.057115,102.5722516
+18,2020-03-23,1625,Male,Malaysian,56,,,,,1,,,,,Hospital Sultan Ismail,Johor Bahru,Johor,1.5467109,103.7887
+19,2020-03-25,1246,Female,Malaysian,68,,,,,,2020-03-19,,,,Hospital Sultanah Nora Ismail,Batu Pahat,Johor,1.8369505,102.9386491
+20,2020-03-25,780,Male,Malaysian,76,,,,,,2020-03-18,,Tabligh,,Hospital Sultan Ismail Petra,Kuala Krai,Kelantan,5.5356636,102.1960864
+21,2020-03-26,1588,Male,Malaysian,63,,,,,1,2020-03-23,22/3/2020,Tabligh,,Hospital Sultanah Bahiyah,Alor Setar,Kedah,6.1418213,100.3687815
+22,2020-03-26,1797,Male,Malaysian,48,,,,,1,,,Tabligh,,Hospital Kluang,Kluang,Johor,2.0212025,103.3213242
+23,2020-03-26,1840,Male,Malaysian,62,,,,,1,,,,,Hospital Raja Permaisuri Bainun,Ipoh,Perak,,
+24,2020-03-26,1056,Male,Malaysian,35,,,,,,,,Indonesia,,Hospital Kuala Lumpur,Kuala Lumpur,WP Kuala Lumpur,3.1715251,101.699616
+25,2020-03-26,2032,Male,Malaysian,83,,,,,1,,,TBD,,Hospital Raja Permaisuri Bainun,Ipoh,Perak,,
+26,2020-03-27,1321,Male,Malaysian,53,,,,,,,,Tabligh,1309.0,Hospital Sungai Buloh,Sungai Buloh,Selangor,,
+27,2020-03-28,2162,Male,Malaysian,61,,,,,1,2020-03-24,,,,Hospital Sultanah Aminah,Johor Bahru,Johor,,
+28,2020-03-28,2321,Female,Malaysian,91,,,,,1,2020-03-26,,,,Pusat Perubatan Universiti Malaya,Kuala Lumpur,WP Kuala Lumpur,,
+29,2020-03-28,2123,Female,Malaysian,64,,,,,1,2020-03-25,,,,Hospital Tuanku Jaafar,Seremban,Negeri Sembilan,,
+30,2020-03-28,2322,Male,Malaysian,76,,,,,1,,,,,Pusat Perubatan Universiti Malaya,Kuala Lumpur,WP Kuala Lumpur,,
+31,2020-03-28,2323,Male,Malaysian,27,,,,,1,2020-03-27,,,,Hospital Raja Permaisuri Bainun,Ipoh,Perak,,
+32,2020-03-28,1239,Male,Malaysian,50,,,,,1,2020-03-22,,Tabligh,,Hospital Kluang,Kluang,Johor,,
+33,2020-03-28,1249,Male,Malaysian,37,,,,,,2020-03-21,,,,Hospital Permai,Johor Bahru,Johor,,
+34,2020-03-29,787,Male,Malaysian,77,,,,,1,2020-03-18,,,,Hospital Kuala Lumpur,Kuala Lumpur,WP Kuala Lumpur,3.1715251,101.699616
+35,2020-03-29,1952,Female,Malaysian,57,,,,,,2020-03-17,2020-12-03 00:00:00,Indonesia,,Hospital Sungai Buloh,Sungai Buloh,Selangor,,
+36,2020-03-30,1941,Male,Malaysian,47,,,,,,2020-03-23,,,,Hospital Umum Sarawak,,Sarawak,,
+37,2020-03-30,2471,Female,Malaysian,46,,,,,1,,,,,Hospital Miri,Miri,Sarawak,,
+38,2020-03-31,2269,Female,Malaysian,48,,,,,1,,,,,Hospital Tuanku Jaafar,,Negeri Sembilan,,
+39,2021-03-31,2626,Male,Malaysian,69,,,,,1,,,,,Hospital Kuala Lumpur,,WP Kuala Lumpur,,
+40,2022-03-31,2627,Male,Malaysian,69,,,,,1,,,,,Hospital Enche Besar Hajjah Khalsom,,Johor,,
+41,2023-03-31,1275,Male,Indonesian,40,,,,,,,,,,Hospital Umum Sarawak,,Sarawak,,
+42,2024-03-31,2628,Male,Malaysian,81,,,,,1,,,,,Pusat Perubatan Universiti Malaya,,WP Kuala Lumpur,,
+43,2025-03-31,2629,Male,Malaysian,73,,,,,1,,,,,Hospital Tengku Ampuan Rahimah,Klang,Selangor,,
